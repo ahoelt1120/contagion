@@ -2,17 +2,19 @@
 
 import grid_view
 import change_listener
-import model
+import model as model
 import contagion_stats
 
 import time
 import config
 import argparse
 
+
 import logging
 logging.basicConfig()
 log = logging.getLogger(__name__)
 log.setLevel(logging.WARN)
+
 
 
 def cli() -> object:
