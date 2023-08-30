@@ -1,6 +1,6 @@
 # Contagion (CIS 211 project)
 
-A simple grid model of contagion
+A simple grid model of contagion. I added the code I used to complete the project to a forked version of the original assigment.
 
 Rumors, diseases, and memes have somewhat different modes of
 transmission, but follow similar patterns of spread from person to
